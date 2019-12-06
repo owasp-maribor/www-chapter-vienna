@@ -1,17 +1,13 @@
-### vienna Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+### Vienna Information
+* [Become a Member](https://www.owasp.org/index.php/Membership)
+* [Join Our Mailing List](https://groups.google.com/a/owasp.org/forum/#!forum/vienna-chapter)
+* [Local Chapter Support](https://www.owasp.org/index.php/Local_Chapter_Supporter)
+* [Chapter Leader Handbook](https://www.owasp.org/index.php/Chapter_Leader_Handbook)
+* [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
+* [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
-
-### Code Repository
-* [repo](#)
+### Social Links
+* [Meetup.com](https://www.meetup.com/OWASP-Vienna-Chapter/)
 
 ### Change Log
-* [changes](#)
-
+* [changes](https://github.com/OWASP/www-chapter-vienna/commits/master)
