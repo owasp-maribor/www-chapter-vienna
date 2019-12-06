@@ -9,7 +9,7 @@ region: Europe
 
 ---
 
-# Welcome to the homepage for the OWASP Chapter in Vienna.
+## Welcome to the homepage for the OWASP Chapter in Vienna.
 
 Please check our schedule on our [Meetup](https://www.meetup.com/OWASP-Vienna-Chapter/) page.
 
