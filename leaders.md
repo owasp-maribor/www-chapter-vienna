@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Lucas Ferreira](mailto://lucas.ferreira@owasp.org)
+* [Sebastian Bicchi](mailto://Sebastian.Bicchi@owasp.org)
+* [Andreas Happe](mailto://Andreas.Happe@owasp.org)
