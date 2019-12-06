@@ -11,7 +11,7 @@ region: Europe
 
 Welcome to the Vienna chapter homepage.
 
-Please check our schedule on our Meetup page: https://www.meetup.com/OWASP-Vienna-Chapter/
+Please check our schedule on our [Meetup](https://www.meetup.com/OWASP-Vienna-Chapter/) page.
 
 ## Local News
-Please join our mailing list or Meetup for the schedule of events.
+Please join our [mailing list](https://groups.google.com/a/owasp.org/forum/#!forum/vienna-chapter) or [Meetup](https://www.meetup.com/OWASP-Vienna-Chapter/) for the schedule of events.
