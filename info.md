@@ -8,6 +8,7 @@
 
 ### Social Links
 * [Meetup.com](https://www.meetup.com/OWASP-Vienna-Chapter/)
+* [Twitter](https://twitter.com/OWASPVienna)
 
 ### Change Log
 * [changes](https://github.com/OWASP/www-chapter-vienna/commits/master)
