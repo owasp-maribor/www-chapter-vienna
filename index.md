@@ -15,3 +15,8 @@ Please check our schedule on our [Meetup](https://www.meetup.com/OWASP-Vienna-Ch
 
 ## Local News
 Please join our [mailing list](https://groups.google.com/a/owasp.org/forum/#!forum/vienna-chapter) or [Meetup](https://www.meetup.com/OWASP-Vienna-Chapter/) for the schedule of events.
+
+## Virtual Chapter Meetings
+Here are the videos of our Virtual Chapter Meetings:
+
+17 May 2020 - [David Cuthbert](https://www.youtube.com/watch?v=D4Zjin4hDno)
