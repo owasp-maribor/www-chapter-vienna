@@ -19,4 +19,5 @@ Please join our [mailing list](https://groups.google.com/a/owasp.org/forum/#!for
 ## Virtual Chapter Meetings
 Here are the videos of our Virtual Chapter Meetings:
 
-17 May 2020 - [David Cuthbert](https://www.youtube.com/watch?v=D4Zjin4hDno)
+17 May 2020 - [David Cuthbert - Do you even pentest bro?](https://www.youtube.com/watch?v=D4Zjin4hDno)
+30 June 2020 - [Luke O’Malley - Detect complex code patterns using semantic grep](https://www.youtube.com/watch?v=pupg-6Gq7oQ)
